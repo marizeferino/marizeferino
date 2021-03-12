@@ -1,16 +1,20 @@
-### Hi there 👋
+[![image](https://github.com/marizeferino/marizeferino/blob/master/mari-capa.png)](https://github.com/marizeferino?tab=repositories)
 
-<!--
-**marizeferino/marizeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 Aspirante a analista de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💵 Graduada em Ciências Econômicas pela UFPE
+
+💻 Bootcamp em Data Analyst pela Ironhack
+
+💗 Apaixonada por dados, pesquisa e python
+
+📚 Aprendendo Power BI
+
+
+---
+
+[![](https://img.shields.io/badge/LinkedIn-6A5ACD)](https://www.linkedin.com/in/mariana-zeferino/)
+[![](https://img.shields.io/badge/Lattes-008B8B)](http://lattes.cnpq.br/2279506101517086)
+[![](https://img.shields.io/badge/Medium-A0522D)](https://medium.com/@marizeferino)
