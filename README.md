@@ -1,4 +1,4 @@
-[![image](https://github.com/marizeferino/marizeferino/blob/master/mari-capa.png)](https://github.com/marizeferino?tab=repositories)
+### Hello, World! Eu sou a Mari 👋
 
 ---
 
