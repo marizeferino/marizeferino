@@ -2,7 +2,7 @@
 
 ---
 
-🔭 Analista de dados no Jeitto
+🔭 Analista de dados no Will Bank
 
 💵 Graduada em Ciências Econômicas pela UFPE
 
