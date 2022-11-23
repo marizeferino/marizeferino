@@ -2,7 +2,7 @@
 
 ---
 
-🔭 Analista de dados no Will Bank
+🔭 Analista de dados no Itaú Unibanco
 
 💵 Graduada em Ciências Econômicas pela UFPE
 
